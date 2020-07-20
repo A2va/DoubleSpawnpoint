@@ -1,0 +1,132 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": 
+        {
+          "blue_bed": 1
+        }
+      },
+      {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": {
+          "black_bed": 1
+        }
+      },
+      {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": 
+        {
+          "brown_bed": 1
+        }
+      },
+      {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": 
+        {
+          "cyan_bed": 1
+        }
+      },
+      {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": 
+        {
+          "gray_bed": 1
+        }
+      },
+      {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": 
+        {
+          "green_bed": 1
+        }
+      },
+      {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": 
+        {
+          "light_blue_bed": 1
+        }
+      },
+      {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": 
+        {
+          "light_gray_bed": 1
+        }
+      },
+      {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": 
+        {
+          "lime_bed": 1
+        }
+      },
+      {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": 
+        {
+          "magenta_bed": 1
+        }
+      },
+      {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": 
+        {
+          "orange_bed": 1
+        }
+      },
+      {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": 
+        {
+          "pink_bed": 1
+        }
+      },
+      {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": 
+        {
+          "purple_bed": 1
+        }
+      },
+      {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": 
+        {
+          "red_bed": 1
+        }
+      },
+      {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": 
+        {
+          "white_bed": 1
+        }
+      },
+      {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": 
+        {
+          "yellow_bed": 1
+        }
+      }
+    ]
+  }

@@ -1,0 +1,1 @@
+execute as @a[predicate=spawnpoint:scores] run function spawnpoint:load_spawnpoint
