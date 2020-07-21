@@ -127,6 +127,15 @@
         {
           "yellow_bed": 1
         }
+      },
+      {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": 
+        {
+          "respawn_anchor": 1
+        }
       }
+      
     ]
   }

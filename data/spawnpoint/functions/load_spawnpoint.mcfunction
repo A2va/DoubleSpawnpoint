@@ -14,6 +14,7 @@ scoreboard players set @s purple_bed 0
 scoreboard players set @s red_bed 0
 scoreboard players set @s white_bed 0
 scoreboard players set @s yellow_bed 0
+scoreboard players set @s respawn_anchor 0
 
 execute at @s run summon minecraft:area_effect_cloud ~ ~ ~ {Age: -2147483648, Duration: -1, WaitTime: -2147483648, Tags: ["spawnpoint"]}
 scoreboard players operation @e[type=area_effect_cloud,tag=spawnpoint,limit=1] PosX = @s Spawnpoint_X

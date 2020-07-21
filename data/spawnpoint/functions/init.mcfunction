@@ -23,3 +23,5 @@ scoreboard objectives add red_bed minecraft.mined:minecraft.red_bed
 scoreboard objectives add white_bed minecraft.mined:minecraft.white_bed
 scoreboard objectives add yellow_bed minecraft.mined:minecraft.yellow_bed
 
+
+scoreboard objectives add respawn_anchor minecraft.mined:minecraft.respawn_anchor
